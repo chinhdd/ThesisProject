@@ -33,4 +33,10 @@ public class ForexLoadingData implements LoadingFileData {
         return 0;
     }
 
+    @Override
+    public void nextItem() throws ForexException {
+        // TODO Auto-generated method stub
+        
+    }
+
 }
